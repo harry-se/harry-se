@@ -2,7 +2,6 @@
 <h3 align="center">A passionate Backend Web Developer</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=harry-se&label=Profile%20views&color=0e75b6&style=flat" alt="harry-se" /> </p> -->
-<img width=400 align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=harry-se&" alt="harry-se" />
 - 🔭 I graduated from: **FPT University HCM**
 
 - 🌱 I’m currently learning: **ASP.NET Core, AI, and a little bit about Mobile with devOps**
@@ -10,6 +9,8 @@
 - 💬 Ask me about: **ML, DL, .NET, CI/CD workflow**
 
 - 📫 How to reach me: **duyhoang.working@gmail.com**
+
+<img width=400 align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=harry-se&" alt="harry-se" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
