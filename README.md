@@ -30,8 +30,7 @@
 </p>
 
 <span>
-  <p align="left"><img width=300 src="https://github-readme-stats.vercel.app/api/top-langs?username=harry-se&show_icons=true&locale=en&layout=compact" alt="harry-se" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=harry-se&" alt="harry-se" /></p>
-  <p size=10 align="center"><img width=1010 src="https://github-readme-stats.vercel.app/api?username=harry-se&show_icons=true&locale=en" alt="harry-se" /></p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harry-se&" alt="harry-se" />
 </span>
 
 <!-- <h2>Individual projects</h2>
