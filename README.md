@@ -2,8 +2,7 @@
 <h3 align="center">A passionate Backend Web Developer</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=harry-se&label=Profile%20views&color=0e75b6&style=flat" alt="harry-se" /> </p> -->
-<img width=400 align="right" src="https://angularexperts.io/assets/images/products/skol/skol-product-placement.svg" alt="Coding" />
-
+<img width=400 align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=harry-se&" alt="harry-se" />
 - 🔭 I graduated from: **FPT University HCM**
 
 - 🌱 I’m currently learning: **ASP.NET Core, AI, and a little bit about Mobile with devOps**
@@ -28,10 +27,6 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> 
 </p>
-
-<span>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harry-se&" alt="harry-se" />
-</span>
 
 <!-- <h2>Individual projects</h2>
 <a href="https://github.com/soyu-se/E-commerce_WebAPI">
